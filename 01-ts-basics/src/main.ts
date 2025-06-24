@@ -7,7 +7,3 @@ import "./task-5";
 import "./task-6";
 import "./task-7";
 import "./task-8";
-import "./task-9";
-import "./task-10";
-import "./task-11";
-import "./task-13";
